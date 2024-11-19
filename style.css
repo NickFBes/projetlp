@@ -60,7 +60,7 @@ header {
   margin-right: 40px;
   font-size: 20px;
   background-color: rgba(93, 93, 93, 0.8);
-  border: solid 2px rgba(164, 163, 163, 0.2);
+  border: solid 2px rgba(187, 103, 173, 0.5);
   border-radius: 20px;
   padding-left: 15px;
   padding-right: 15px;
@@ -127,7 +127,7 @@ main {
 .botao {
   margin-top: 20px;
   padding: 5px 10px; 
-  background-color: #a74a4a; 
+  background-color: #8f6095; 
   color: white; 
   border: none; 
   border-radius: 5px; 
